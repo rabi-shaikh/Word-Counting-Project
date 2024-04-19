@@ -1,6 +1,6 @@
 {
   "name": "rsword-counting-project",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This is Simple Words Counting Project",
   "main": "index.js",
   "type": "module",
